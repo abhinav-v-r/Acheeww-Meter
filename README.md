@@ -1,32 +1,32 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Acheeww Meter 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Team 404
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abhinav V R - NSS College of Engineering Palakkad
+- Member 2: Arjun K - NSS College of Engineering Palakkad
+
 
 ### Project Description
 [2-3 lines about what your project does]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Did you ever think about the frequency of your sneezing or how many times do you sneeze in a day?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We are 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- Python
+- Flask
 - [Libraries used]
 - [Tools used]
 
