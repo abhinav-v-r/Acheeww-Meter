@@ -8,6 +8,8 @@ import pyttsx3
 from pydub import AudioSegment
 from threading import Thread
 import matplotlib.pyplot as plt
+import simpleaudio as sa
+
 
 st.set_page_config(page_title="Acheeww Meter — Incoming Sneeze", layout="centered")
 
@@ -19,9 +21,9 @@ model = AchuModel()
 
 def play_sound_async(path):
     try:
-        from pydub.playback import play
-        sound = AudioSegment.from_file(path)
-        Thread(target=lambda: play(sound)).start()
+        wave_obj = sa.WaveObject.from_wave_file(path)
+        # Play in background thread so UI isn't blocked
+        Thread(target=lambda: wave_obj.play()).start()
     except Exception as e:
         print("playback failed:", e)
 
