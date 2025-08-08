@@ -1,0 +1,12 @@
+streamlit
+sounddevice
+soundfile
+librosa
+numpy
+scipy
+scikit-learn
+pydub
+matplotlib
+pyttsx3
+playsound
+joblib
