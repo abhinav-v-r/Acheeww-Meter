@@ -8,4 +8,5 @@ scikit-learn
 pydub
 matplotlib
 pyttsx3
+playsound
 joblib
