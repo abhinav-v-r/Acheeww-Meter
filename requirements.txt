@@ -9,3 +9,4 @@ pydub
 matplotlib
 pyttsx3
 joblib
+simpleaudio
