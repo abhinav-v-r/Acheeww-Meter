@@ -14,34 +14,50 @@
 
 
 ### Project Description
-[2-3 lines about what your project does]
+Acheew Meter is a quirky web app that let users record or upload their sneezes, measure the time until the sneeze, analyze its intensity, and visualize sneeze patterns over time with dynamic graphs.
 
 ### The Problem (that doesn't exist)
-Did you ever think about the frequency of your sneezing or how many times do you sneeze in a day?
+Sneezes happen every day but Did you ever think about the intensity,timing or patterns of your sneezing?
 
 ### The Solution (that nobody asked for)
-We are 
+So we built a web app that records and analyzes sneezes and measuring the time until sneeze, rating its intensity and plotting them on graphs
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Python
-- Flask
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+##### Languages used
+-Python
+##### Frameworks used
+- Streamlit
+##### Libraries used
+- streamlit
+- time
+- numpy
+- pyttsx3
+- pydub
+- threading
+- matplotlib
+- simpleaudio
 
 ### Implementation
-For Software:
+For Software: Python and the above mentioned libraries need to be installed.
+
 # Installation
-[commands]
+
+```
+bash
+
+git clone https://github.com/ARJYUN/Acheeww-Meter
+
+pip install streamlit time numpy pyttsx3 pydub threading matplotlib simpleaudio
+
+```
 
 # Run
-[commands]
+```
+streamlit run app.py
+
+```
 
 ### Project Documentation
 For Software:
