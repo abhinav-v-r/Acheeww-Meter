@@ -9,8 +9,8 @@
 
 
 ### Team Members
-- Team Lead: Abhinav V R - NSS College of Engineering Palakkad
-- Member 2: Arjun K - NSS College of Engineering Palakkad
+- Team Lead: Arjun K - NSS College of Engineering Palakkad
+- Member 2: Abhinav V R - NSS College of Engineering Palakkad
 
 
 ### Project Description
@@ -63,50 +63,18 @@ streamlit run app.py
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](https://github.com/ARJYUN/Acheeww-Meter/blob/main/demo_data/Screenshot%202025-08-09%20062618.png)
+*Users can select the record duration and upload files or record live audio*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](https://github.com/ARJYUN/Acheeww-Meter/blob/main/demo_data/Screenshot%202025-08-09%20062650.png)
+*Output showing graph,intensity and other details*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](https://github.com/ARJYUN/Acheeww-Meter/blob/main/demo_data/Screenshot%202025-08-09%20062712.png)
+*Output*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+![Workflow](https://github.com/ARJYUN/Acheeww-Meter/blob/main/demo_data/Untitled%20diagram%20_%20Mermaid%20Chart-2025-08-09-010201.png)
+*Its shows the workflow of the code *
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
