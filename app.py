@@ -102,6 +102,7 @@ with col2:
         rms_series = compute_rms_over_time(tmp.name, frame_length=1024, hop_length=512)
         time_pred, intensity = model.predict(features)
         st.markdown("---")
+        st.warning(" Harii 🤧 ")
         st.header("Prediction")
         st.write(f"⏳ **Time until sneeze:** {time_pred:.2f} s")
         st.write(f"🌪️ **Intensity:** **{intensity.upper()}**")
