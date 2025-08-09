@@ -10,7 +10,7 @@
 
 ### Team Members
 - Team Lead: Arjun K - NSS College of Engineering Palakkad
-- Member 2: Abhinav V R - NSS College of Engineering Palakkad
+- Team Mate: Abhinav V R - NSS College of Engineering Palakkad
 
 
 ### Project Description
