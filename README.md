@@ -26,7 +26,7 @@ So we built a web app that records and analyzes sneezes and measuring the time u
 ### Technologies/Components Used
 For Software:
 ##### Languages used
--Python
+- Python
 ##### Frameworks used
 - Streamlit
 ##### Libraries used
